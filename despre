@@ -1,0 +1,4 @@
+Site de inchiriere haine. Codeigniter4
+
+php spark migrate
+php spark seed:db ...
